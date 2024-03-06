@@ -23,7 +23,7 @@ Data taken from web and loaded therefrom
 
 ## Visuals & Insights
 1. Visual to check number of failed banks by State - 
-2. Visual to Check the state with the highest failed banks - **State with Highest faile banks is Georgia**
+2. Visual to Check the state with the highest failed banks - **State with Highest failed banks is Georgia**
 3. Visual to check total failed banks by months
 4. Visuals to view the highest month with failed banks - **Month with highest failed banks is July**
 5. Visuals to view failed banks by year - **Year with highest failed bank is 2010**
