@@ -1,4 +1,4 @@
-# Noltremen-Report-on-US-Faile-Banks
+# Noltremen-Report-on-US-Failed-Banks
 Power BI Report on FDIC Failed banks in the US created by Noltremen
 
 ## Data Source
